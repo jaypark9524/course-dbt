@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: addresses
+    description: Addresses data
+  - name: events
+    description: Events data
+  - name: order_items
+    description: Order items data
+  - name: orders
+    description: Orders data
+  - name: products
+    description: Products data
+  - name: promos
+    description: Promotions data
+  - name: users
+    description: Users data
